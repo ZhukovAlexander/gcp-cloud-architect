@@ -7,3 +7,4 @@ Google Cloud Certified - Professional Cloud Architect useful resources
 * [OWASP Top Ten - Top 10 Web Application Security Risks
 ](https://owasp.org/www-project-top-ten/)
 * [Notes from my Google Cloud Professional Cloud Architect Exam - sathish vj](https://sathishvj.medium.com/notes-from-my-google-cloud-professional-cloud-architect-exam-bbc4299ac30)
+* [Hybrid and multi-cloud network topologies](https://cloud.google.com/solutions/hybrid-and-multi-cloud-network-topologies)
